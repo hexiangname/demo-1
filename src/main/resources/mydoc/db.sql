@@ -8,3 +8,6 @@ CREATE TABLE `student` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 select * from student;
+
+delete from student where id=18;
+

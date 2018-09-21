@@ -6,6 +6,6 @@
 </head>
 <body>
 <h2>登录失败,用户名密码错误</h2>
-<a href="index.jsp">返回登录</a>
+<a href="toindex.action">返回登录</a>
 </body>
 </html>
